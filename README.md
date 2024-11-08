@@ -23,6 +23,8 @@ My name is Luis Aguilar, and I'm a Full Stack Web Developer based in Mexico City
 - **Frameworks/Libraries:** I have worked with React, Node.js, Django, Angular, Vue, Express, etc...
 - **Tools/Technologies:** I have experienced with, Git, Docker, AWS, etc...
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,react,vue,angular,nodejs,express,python,django,git,docker,aws)](https://skillicons.dev)
+  
 ## Projects
 
 Here are some of my notable projects:
